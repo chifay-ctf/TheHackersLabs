@@ -2,4 +2,6 @@ TheHackerLabs es una plataforma de entrenamiento en ciberseguridad, soluciones e
 
 En este repositorio ire subiendo mis writeups de dichos laboratorios.
 
+[Mi perfil en TheHackerLabs](https://labs.thehackerslabs.com/hackers/chifay)
+
 NOTA: Todos los procedimientos mostrados aquí son para fines educativos. NO usarlos en ambientes reales sin la debida autorización.
