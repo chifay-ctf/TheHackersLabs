@@ -1,4 +1,4 @@
-La plataforma líder en entrenamiento de ciberseguridad, soluciones empresariales y desafíos prácticos de hacking diseñados por expertos de la industria. ¡Ponte a prueba, aprende y compite con la comunidad hacker!
+TheHackerLabs es una plataforma de entrenamiento en ciberseguridad, soluciones empresariales y desafíos prácticos de hacking diseñados por expertos de la industria. ¡Ponte a prueba, aprende y compite con la comunidad hacker!
 
 En este repositorio ire subiendo mis writeups de dichos laboratorios.
 
